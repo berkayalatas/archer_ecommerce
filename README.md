@@ -1,4 +1,4 @@
-# archer
+# archer_ecommerce
 
 ##  Installation and Setup Instructions
 
@@ -20,4 +20,4 @@ Clone down this repository. You will need node and npm installed globally on you
 #### To Visit App:
 
 ```localhost:3000```
-# archer_ecommerce
+
